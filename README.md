@@ -18,7 +18,7 @@ Hello! I'm Tabea, a passionate Data Analyst with a keen interest in solving impo
 
 ## Get in Touch
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tabea-herbst-a91707175/
+- 💼 LinkedIn: [Click here](https://www.linkedin.com/in/tabea-herbst-a91707175/)
 
 ## GitHub Stats
 
