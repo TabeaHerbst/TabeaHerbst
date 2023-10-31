@@ -13,8 +13,8 @@ Hello! I'm Tabea, a passionate Data Analyst with a keen interest in solving impo
   
 ## Technologies & Tools
 
-- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-- ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 
 ## Get in Touch
 
