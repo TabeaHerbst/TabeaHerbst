@@ -10,6 +10,12 @@ Hello! I'm Tabea, a passionate Data Analyst with a keen interest in solving impo
 - 👯 I’m looking to collaborate on machine learning projects that help me learn
 - 💬 Ask me about anything
 
+  
+## Technologies & Tools
+
+- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+- ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+
 ## Get in Touch
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tabea-herbst-a91707175/
