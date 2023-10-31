@@ -16,5 +16,5 @@ Hello! I'm Tabea, a passionate Data Analyst with a keen interest in solving impo
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/TabeaHerbst)
 
